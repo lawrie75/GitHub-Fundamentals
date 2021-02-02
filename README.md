@@ -41,16 +41,6 @@ _Note: Use the [Markdown Table Generator](http://www.tablesgenerator.com/markdow
 | Web-2    | Web site |  10.1.0.6  |       Linux      |
 | Web-3    | Web site |  10.1.0.7  |       Linux      |
 
-
-
-
-| Name     | Function | IP Address | Operating System |
-|----------|----------|------------|------------------|
-| Jump Box | Gateway  | 10.0.0.1   | Linux            |
-| TODO     |          |            |                  |
-| TODO     |          |            |                  |
-| TODO     |          |            |                  |
-
 ### Access Policies
 
 The machines on the internal network are not exposed to the public Internet. 
