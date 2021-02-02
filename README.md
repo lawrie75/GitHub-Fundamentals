@@ -34,9 +34,9 @@ Integrating an ELK server allows users to easily monitor the vulnerable VMs for 
 The configuration details of each machine may be found below.
 _Note: Use the [Markdown Table Generator](http://www.tablesgenerator.com/markdown_tables) to add/remove values from the table_.
 
-| name     | function | ip address | operating system |
+| Name     | Function | IP Address | Operating System |
 |----------|----------|------------|------------------|
-| jump box |  Gateway |  10.1.0.4  |       Linux      |
+| Jump Box |  Gateway |  10.1.0.4  |       Linux      |
 | Web-1    | Web site |  10.1.0.5  |       Linux      |
 | Web-2    | Web site |  10.1.0.6  |       Linux      |
 | Web-3    | Web site |  10.1.0.7  |       Linux      |
